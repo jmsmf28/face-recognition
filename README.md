@@ -1,4 +1,4 @@
-# SmartBrain
+# FaceRecognition
 
 
 1. Clone this repo
